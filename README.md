@@ -2,7 +2,7 @@
 
 STEP 1：Create canvas
 STEP 2：Setting canvas
-STEP 3：
+STEP 3：Other setting
 
 * canvas 為點陣圖
 * <a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/clip-path">clip-path 裁切圖片 MDN</a><br>
