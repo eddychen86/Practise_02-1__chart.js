@@ -5,8 +5,8 @@ STEP 2：Setting canvas
 STEP 3：
 
 * canvas 為點陣圖
-
+<hr>
 ## 相關 JS
 
-<a herf="https://vincentgarreau.com/particles.js/">particles.js</a>
-<a herf="https://threejs.org/">Three.js</a>
+<a href="https://vincentgarreau.com/particles.js/">particles.js</a><br>
+<a href="https://threejs.org/">Three.js</a><br>
